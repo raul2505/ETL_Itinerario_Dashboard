@@ -51,6 +51,6 @@ Los datos son transformados, limpiados y modelados para construir dashboards int
 
 ---
 
-##Autor
+## Autor
 ERICK JAUREGUI - Erick Jauregui Mesneses (Linkedin)
   
