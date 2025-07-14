@@ -1,5 +1,5 @@
 # ETL_Itinerario_Dashboard
-Este proyecto implementa un proceso completo de **ETL (Extract, Transform, Load)** sobre un dataset de itinerarios de naves y aeronaves, integrando información adicional de puertos y países.  
+Este proyecto implementa un proceso completo de **ETL (Extract, Transform, Load)** sobre un dataset de itinerarios de naves, integrando información adicional de puertos y países.  
 Los datos son transformados, limpiados y modelados para construir dashboards interactivos que permiten identificar patrones logísticos clave.
 
 ## 🎯 Objetivos
